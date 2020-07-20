@@ -1,0 +1,3 @@
+﻿linq [listas, dicionarios]
+generics
+ EF //fluent api  
